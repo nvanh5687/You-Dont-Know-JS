@@ -32,31 +32,21 @@ Chúng tôi luôn đánh giá cao và trân trọng các đóng góp tài chính
 
 <a href="https://www.patreon.com/getify">[![patreon.png](https://s11.postimg.org/axpzguh77/patreon.png)](https://www.patreon.com/getify)</a>
 
-## In-person Training
+## Đào tạo trực tiếp
 
-Các nội dung trong bộ sách này được lấy nhiều từ chương trình đào tạo mà tôi đã giảng dạy của tôi tại trường (
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format), called "Advanced JS: The 'What You Need To Know' Parts".
+Các nội dung trong bộ sách này được lấy nhiều từ chương trình đào tạo mà tôi đã giảng dạy của tôi tại trường có tên "Advanced JS: The 'What You Need To Know' Parts".
+Nếu bạn hứng thú với nội dung này và muốn tôi đào tạo xung quanh các chủ đề JS/HTML5/NodeJs, hãy liên hệ với tôi qua kênh sau [http://getify.me](http://getify.me)
 
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through any of these channels listed here:
+## Video đào tạo trực tuyến
 
-[http://getify.me](http://getify.me)
+Tôi cũng có một vài tài liệu đào tạo dưới dạng video. Tôi dạy các khóa [Frontend Masters](https://FrontendMasters.com) và [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/). Một khóa học tương tự tại [Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
 
-## Online Video Training
+## Về các góp ý
 
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
+Rất mong nhận được sự góp ý của các bạn.
 
-That same course is also [available through Pluralsight](http://www.pluralsight.com/courses/advanced-javascript).
+## Giấy phép & Bản quyền
 
-## Content Contributions
-
-Any contributions you make to this effort **are of course greatly appreciated**.
-
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it.
-
-So: blah, blah, blah... :)
-
-## License & Copyright
-
-The materials herein are all (c) 2013-2015 Kyle Simpson.
+Bản quyền thuộc về Kyle Simpson (c) 2013-2015.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
