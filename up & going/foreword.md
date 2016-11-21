@@ -3,13 +3,11 @@
 
 Gần đây bạn vừa học được kiến thức gì mới?
 
-Đó có thể là một ngôn ngữ mới, tiếng Ý hoặc tiếng Đức chẳng hạn. Hoặc có thể là một trình biên tập đồ họa như Photoshop. Hoặc kỹ thuật nấu nướng hay đơn giẩn chỉ là một bài tập thể dục mới. Bạn hãy nhớ cái cảm giác hoàn thành nó. Thật tuyệt đúng không nào? Khi có một 
+Đó có thể là một ngôn ngữ mới, tiếng Ý hoặc tiếng Đức chẳng hạn. Hoặc có thể là một trình biên tập đồ họa như Photoshop. Hoặc kỹ thuật nấu nướng hay đơn giẩn chỉ là một bài tập thể dục mới. Bạn hãy nhớ cái cảm giác hoàn thành nó. Thật tuyệt đúng không nào? 
 
-Perhaps it was a foreign language, like Italian or German. Or maybe it was a graphics editor, like Photoshop. Or a cooking technique or woodworking or an exercise routine. I want you to remember that feeling when you finally got it: the lightbulb moment. Wa
+Bây giờ tôi muốn bạn đi quay lại xa hơn chút, tại thời điểm mà bạn bắt đầu học kỹ năng đó. Bạn cảm thấy thế nào? Có đúng là nó hơi đáng sợ và có một chút bực bội không? Lúc này, bạn không thể biết trước được những điều chúng ta sắp học liệu có ổn không. Học một thứ mới mẻ cũng giống như một cuộc phiêu lưu, đặc biệt khi bạn muốn đi sâu và thực sự hiệu quả.
 
-Now I want you to travel back a little bit further in your memory to right before you learned your new skill. How did *that* feel? Probably slightly intimidating and maybe a little bit frustrating, right? At one point, we all did not know the things that we know now and that’s totally OK; we all start somewhere. Learning new material is an exciting adventure, especially if you are looking to learn the subject efficiently.
-
-I teach a lot of beginner coding classes. The students who take my classes have often tried teaching themselves subjects like HTML or JavaScript by reading blog posts or copying and pasting code, but they haven’t been able to truly master the material that will allow them to code their desired outcome. And because they don’t truly grasp the ins and outs of certain coding topics, they can’t write powerful code or debug their own work, as they don’t really understand what is happening.
+Tôi đã dạy rất nhiều lớp lập trình sơ cấp. Những học viên thường cố gằng học một chủ đề gì đó như HTML hoặc Javascript bằng cách đọc blog.  hoặc copy và paste code. Nhưng họ không thể làm chủ thực sự kiến thức. Do đó, họ không thể viết code cứng hoặc debug những gì đã làm bởi không thực sự hiểu chính xác những gì đang diễn ra.
 
 I always believe in teaching my classes the proper way, meaning I teach web standards, semantic markup, well-commented code, and other best practices. I cover the subject in a thorough manner to explain the hows and whys, without just tossing out code to copy and paste. When you strive to comprehend your code, you create better work and become better at what you do. The code isn’t just your *job* anymore, it’s your *craft*. This is why I love *Up & Going*. Kyle takes us on a deep dive through syntax and terminology to give a great introduction to JavaScript without cutting corners. This book doesn’t skim over the surface, but really allows us to genuinely understand the concepts we will be writing.
 
